@@ -4,7 +4,7 @@ import icons from 'url:../../img/icons.svg';
 
 class BookmarksView extends View {
   _parentElement = document.querySelector('.bookmarks__list');
-  _errorMessage = 'No se ha seleccionado ninguna receta como favorita todavía.';
+  _errorMessage = 'None recipe was bookmarked yet.';
   _message = '';
 
   addHandlerRender(handler) {
