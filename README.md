@@ -1,3 +1,3 @@
 # cookbook Project
 
-Recipe application with custom recipe uploads.
+Web application with custom recipe uploads.
