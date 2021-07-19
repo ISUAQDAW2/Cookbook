@@ -1,4 +1,4 @@
-# Fookbook Project
+# Foodbook Project
 
 Web application with custom recipe uploads.
 
